@@ -1,0 +1,72 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "SUMIT ANANDRAO KAPSE\nB.E. - Information Technology\nPh: +91-7709516410\nEmail: sumitkapse27190@gmail.com\nPimpri-Chinchwad, Maharashtra, India - 411018\nLinkedIn: https://www.linkedin.com/in/sumitkapse/\nC++ Javascript Python SQL TensorFlow Keras Machine Learning Deep Learning Node.js Express.js\nREST APIs React.js MongoDB MySQL Docker Git Github AWS Linux Shell Scripting\nData Structures & Algorithms OOP DBMS Operating Systems Computer Networks",
+    "section": "OTHER",
+    "source": "resume.pdf"
+  },
+  {
+    "chunk_id": 1,
+    "text": "Computer Science/IT undergraduate with hands-on experience in Machine Learning, Computer Vision, and full-stack application\ndevelopment. Built AI-powered applications using Python, TensorFlow, OpenCV, and Streamlit, with practical knowledge of deep\nlearning model deployment, image processing, REST APIs, Docker, Linux, and cloud technologies. Strong foundation in data\nstructures and algorithms with experience integrating AI models into scalable applications. Passionate about deploying AI solutions in\nreal-world environments, solving infrastructure challenges, and collaborating with cross-functional teams to deliver production-ready\nsystems.",
+    "section": "SUMMARY",
+    "source": "resume.pdf"
+  },
+  {
+    "chunk_id": 2,
+    "text": "2023 - 2027\nDr. D. Y. Patil Institute of Technology\nB.E. - Information Technology | CGPA: 8.01 / 10\n2023\nSavitribai Fule jr. College , Butibori, Nagpur\n12 th | MSBSHSE | Percentage: 74.33 / 100\n2021\nBalaji Convent And Secondary School , Butibori, Nagpur\n10 th | MSBSHSE | Percentage: 90 / 100",
+    "section": "EDUCATION",
+    "source": "resume.pdf"
+  },
+  {
+    "chunk_id": 3,
+    "text": "Sales Prediction using python\nTeam Size: 1\nKey Skills: Python Machine Learning Data Analysis Data Visualization Hyperparameter Tuning Data Preprocessing\nProject Link: https://github.com/Sumit27190/Sales_Prediction\nSales prediction project using Python and machine learning to forecast product sales from advertising spend data.\nBuilt regression models (Linear, Lasso, Ridge, Decision Tree, Random Forest, Gradient Boosting, XGBoost) to predict Sales from TV,\nRadio, and Newspaper budgets.\nPerformed data cleaning, feature engineering, multicollinearity analysis, scaling, train/test splitting, and model evaluation with R², MSE,\nRMSE, and MAE.\nTuned hyperparameters using GridSearchCV and RandomizedSearchCV, and selected the best model based on test performance.",
+    "section": "PROJECTS",
+    "source": "resume.pdf",
+    "project": "Sales Prediction using python"
+  },
+  {
+    "chunk_id": 4,
+    "text": "Book Connect\nKey Skills: React.js Javascript Node.js Express.js MongoDB REST APIs\nProject Link: https://book-connect-two.vercel.app\nDeveloped a full-stack social platform for book discovery, sharing, and peer-to-peer exchange.\nDesigned and integrated RESTful APIs for authentication, posts, exchanges, and notifications.\nImplemented dual authentication (JWT + Google OAuth) with secure, ownership-based access control.\nBuilt a two-party confirmation system for book exchanges linked to a points and badges engine.\nBuilt responsive, reusable React components for the social feed, profiles, and marketplace.",
+    "section": "PROJECTS",
+    "source": "resume.pdf",
+    "project": "Book Connect"
+  },
+  {
+    "chunk_id": 5,
+    "text": "NutriXplore\nKey Skills: Python TensorFlow Streamlit Pandas NumPy Machine Learning Deep Learning\nProject Link: https://github.com/Sumit27190/Nutri\nDeveloped an AI-powered application for food image classification and nutritional analysis.\nTrained a deep learning model on a custom dataset of 5,000+ food images across 20+ categories.\nImplemented data preprocessing and augmentation techniques to improve model performance.\nIntegrated the trained model into a Streamlit-based web application for real-time predictions.\nGenerated nutritional insights and health recommendations based on identified food items.",
+    "section": "PROJECTS",
+    "source": "resume.pdf",
+    "project": "NutriXplore"
+  },
+  {
+    "chunk_id": 6,
+    "text": "Urban Eye\nKey Skills: React.js Node.js Express.js REST APIs MongoDB\nProject Link: https://urban-eye-sigma.vercel.app\nDeveloped the backend for a citizen issue-reporting platform using Node.js, Express, and MongoDB.\nDesigned and built RESTful APIs for authentication, issue management, and location-based search.\nImplemented JWT authentication with role-based access control for citizens and admins.\nBuilt a database schema with a priority-scoring system to surface urgent issues first.\nBuilt responsive React components to display issues, dashboards, and admin controls.",
+    "section": "PROJECTS",
+    "source": "resume.pdf",
+    "project": "Urban Eye"
+  },
+  {
+    "chunk_id": 7,
+    "text": "Runner-up in Code Crackers Coding Competition at DIT\nSolved 400+ Data Structures and Algorithms problems across LeetCode, CodeChef, and GeeksforGeeks\nA-Z ML with python and R - Udemy Certificate",
+    "section": "ACHIEVEMENTS",
+    "source": "resume.pdf"
+  },
+  {
+    "chunk_id": 8,
+    "text": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2026]\nProvider: Udemy\nKey Skills:\nMachine Learning Artificial Intelligence Python Data Science Deep Learning Neural Networks Data Preprocessing\nTensorFlow",
+    "section": "CERTIFICATIONS",
+    "source": "resume.pdf"
+  },
+  {
+    "chunk_id": 9,
+    "text": "Travelling , Reading",
+    "section": "INTERESTS",
+    "source": "resume.pdf"
+  },
+  {
+    "chunk_id": 10,
+    "text": "WhatsApp - 7709516410\nGithub - https://github.com/Sumit27190\nCodechef - https://www.codechef.com/users/cave_demon",
+    "section": "LINKS",
+    "source": "resume.pdf"
+  }
+]

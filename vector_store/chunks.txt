@@ -1,0 +1,114 @@
+======================================================================
+CHUNK 0 | OTHER
+======================================================================
+SUMIT ANANDRAO KAPSE
+B.E. - Information Technology
+Ph: +91-7709516410
+Email: sumitkapse27190@gmail.com
+Pimpri-Chinchwad, Maharashtra, India - 411018
+LinkedIn: https://www.linkedin.com/in/sumitkapse/
+C++ Javascript Python SQL TensorFlow Keras Machine Learning Deep Learning Node.js Express.js
+REST APIs React.js MongoDB MySQL Docker Git Github AWS Linux Shell Scripting
+Data Structures & Algorithms OOP DBMS Operating Systems Computer Networks
+
+======================================================================
+CHUNK 1 | SUMMARY
+======================================================================
+Computer Science/IT undergraduate with hands-on experience in Machine Learning, Computer Vision, and full-stack application
+development. Built AI-powered applications using Python, TensorFlow, OpenCV, and Streamlit, with practical knowledge of deep
+learning model deployment, image processing, REST APIs, Docker, Linux, and cloud technologies. Strong foundation in data
+structures and algorithms with experience integrating AI models into scalable applications. Passionate about deploying AI solutions in
+real-world environments, solving infrastructure challenges, and collaborating with cross-functional teams to deliver production-ready
+systems.
+
+======================================================================
+CHUNK 2 | EDUCATION
+======================================================================
+2023 - 2027
+Dr. D. Y. Patil Institute of Technology
+B.E. - Information Technology | CGPA: 8.01 / 10
+2023
+Savitribai Fule jr. College , Butibori, Nagpur
+12 th | MSBSHSE | Percentage: 74.33 / 100
+2021
+Balaji Convent And Secondary School , Butibori, Nagpur
+10 th | MSBSHSE | Percentage: 90 / 100
+
+======================================================================
+CHUNK 3 | PROJECTS
+======================================================================
+Sales Prediction using python
+Team Size: 1
+Key Skills: Python Machine Learning Data Analysis Data Visualization Hyperparameter Tuning Data Preprocessing
+Project Link: https://github.com/Sumit27190/Sales_Prediction
+Sales prediction project using Python and machine learning to forecast product sales from advertising spend data.
+Built regression models (Linear, Lasso, Ridge, Decision Tree, Random Forest, Gradient Boosting, XGBoost) to predict Sales from TV,
+Radio, and Newspaper budgets.
+Performed data cleaning, feature engineering, multicollinearity analysis, scaling, train/test splitting, and model evaluation with R², MSE,
+RMSE, and MAE.
+Tuned hyperparameters using GridSearchCV and RandomizedSearchCV, and selected the best model based on test performance.
+
+======================================================================
+CHUNK 4 | PROJECTS
+======================================================================
+Book Connect
+Key Skills: React.js Javascript Node.js Express.js MongoDB REST APIs
+Project Link: https://book-connect-two.vercel.app
+Developed a full-stack social platform for book discovery, sharing, and peer-to-peer exchange.
+Designed and integrated RESTful APIs for authentication, posts, exchanges, and notifications.
+Implemented dual authentication (JWT + Google OAuth) with secure, ownership-based access control.
+Built a two-party confirmation system for book exchanges linked to a points and badges engine.
+Built responsive, reusable React components for the social feed, profiles, and marketplace.
+
+======================================================================
+CHUNK 5 | PROJECTS
+======================================================================
+NutriXplore
+Key Skills: Python TensorFlow Streamlit Pandas NumPy Machine Learning Deep Learning
+Project Link: https://github.com/Sumit27190/Nutri
+Developed an AI-powered application for food image classification and nutritional analysis.
+Trained a deep learning model on a custom dataset of 5,000+ food images across 20+ categories.
+Implemented data preprocessing and augmentation techniques to improve model performance.
+Integrated the trained model into a Streamlit-based web application for real-time predictions.
+Generated nutritional insights and health recommendations based on identified food items.
+
+======================================================================
+CHUNK 6 | PROJECTS
+======================================================================
+Urban Eye
+Key Skills: React.js Node.js Express.js REST APIs MongoDB
+Project Link: https://urban-eye-sigma.vercel.app
+Developed the backend for a citizen issue-reporting platform using Node.js, Express, and MongoDB.
+Designed and built RESTful APIs for authentication, issue management, and location-based search.
+Implemented JWT authentication with role-based access control for citizens and admins.
+Built a database schema with a priority-scoring system to surface urgent issues first.
+Built responsive React components to display issues, dashboards, and admin controls.
+
+======================================================================
+CHUNK 7 | ACHIEVEMENTS
+======================================================================
+Runner-up in Code Crackers Coding Competition at DIT
+Solved 400+ Data Structures and Algorithms problems across LeetCode, CodeChef, and GeeksforGeeks
+A-Z ML with python and R - Udemy Certificate
+
+======================================================================
+CHUNK 8 | CERTIFICATIONS
+======================================================================
+Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2026]
+Provider: Udemy
+Key Skills:
+Machine Learning Artificial Intelligence Python Data Science Deep Learning Neural Networks Data Preprocessing
+TensorFlow
+
+======================================================================
+CHUNK 9 | INTERESTS
+======================================================================
+Travelling , Reading
+
+======================================================================
+CHUNK 10 | LINKS
+======================================================================
+WhatsApp - 7709516410
+Github - https://github.com/Sumit27190
+Codechef - https://www.codechef.com/users/cave_demon
+

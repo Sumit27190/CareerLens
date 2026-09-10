@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": 0,
+    "text": "Job Description: GoDaddy is looking for Software Development Engineering Interns to join us in building and improving products that empower our customers. As an Intern Software Development Engineer, you will have the opportunity to make a meaningful contribution to GoDaddy’s revenue, customer growth, and innovation while solving real-world problems that help our customers make their dreams a reality. We seek curious builders with strong technical foundations, sound judgment, and an experimentation mindset. You may use AI-assisted tools to enhance your development process, but success is measured by how you solve problems, the decisions you make, and the outcomes you deliver.",
+    "section": "GENERAL",
+    "source": "job_description.txt"
+  },
+  {
+    "chunk_id": 1,
+    "text": "If you want to make a difference and help build products that enable our customers to succeed, GoDaddy is for you! We offer interns a monthly stipend and opportunities to cross-collaborate, get involved in GoDaddy culture, and participate in intern events. You'll receive mentorship, build personal networks!, make friendships, and collaborate with people who share your passion for technology and small business in an energetic, international work environment. This internship position is scheduled to be approximately six months in duration from January 2027 through June 2027.",
+    "section": "GENERAL",
+    "source": "job_description.txt"
+  },
+  {
+    "chunk_id": 2,
+    "text": "• •Work on real world problems - you are building production grade software. Build reliable, scalable, cloud-ready products and services. •Own problems through development, testing, deployment, and iteration. • • ••Translate customer needs into practical solutions. Write, test, debug, and improve high-quality code. Use AI-assisted tools responsibly and validate the accuracy, security, and quality of outputs. Experiment, evaluate results, and adapt based on feedback. • •Collaborate across teams and communicate technical concepts clearly. Apply Agile and DevOps practices to continuously improve services.",
+    "section": "What you'll get to do",
+    "source": "job_description.txt"
+  },
+  {
+    "chunk_id": 3,
+    "text": "• Experience using AI-assisted tools or automation to improve a project or solve a problem Pursuing a B.Tech./B.E. in computer science, information technology, data science, UX engineering, or related discipline of 2027 batch. •Experience with at least one relevant programming language or technical discipline. • •Strong foundational problem-solving and technical skills. Evidence of applying skills through academic, personal, prior internship, open-source, or entrepreneurial projects. ••Ability to explain what you built, how you approached it, and how you evaluated the outcome. Curiosity, creativity, adaptability, and a builder mindset.",
+    "section": "Your experience should include",
+    "source": "job_description.txt"
+  },
+  {
+    "chunk_id": 4,
+    "text": "• •Ability to test assumptions and validate AI-generated outputs. Strong communication and collaboration skills.",
+    "section": "Your experience should include",
+    "source": "job_description.txt"
+  },
+  {
+    "chunk_id": 5,
+    "text": "•Experience building and shipping a product, feature, prototype, or analysis. • •Familiarity with AWS Cloud Understanding how software is developed in teams and maintained through Agile and DevOps practices.",
+    "section": "You might also have",
+    "source": "job_description.txt"
+  }
+]
